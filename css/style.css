@@ -1411,7 +1411,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #footer {
   background: #101522;
-  padding: 0 0 25px 0;
+  padding: 0 0 20px 0;
   color: #eee;
   font-size: 14px;
 }
@@ -1552,6 +1552,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #footer .credits {
   text-align: center;
   font-size: 13px;
+  padding-top: 20px;
   color: #ddd;
 }
 
