@@ -1,0 +1,22 @@
+<!--==========================
+    About Section
+  ============================-->
+<section id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <h2>Networking meets Charity</h2>
+                <p>{{ section.content }}</p>
+            </div>
+            <div class="col-lg-3">
+                <h3>Wo?</h3>
+                <p>{{ section.where | markdownify }}</p>
+            </div>
+            <div class="col-lg-3">
+                <h3>Wann?</h3>
+                <p>
+                    {{ section.when | markdownify }}</p>
+            </div>
+        </div>
+    </div>
+</section>

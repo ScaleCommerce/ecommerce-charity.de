@@ -1,0 +1,45 @@
+<!--==========================
+      Venue Section
+    ============================-->
+<section id="venue" class="wow fadeInUp">
+
+  <div class="container-fluid">
+
+    <div class="section-header">
+      <h2>Location</h2>
+      <p>GRACE Restaurant im Hotel Zoo Berlin</p>
+    </div>
+
+    <div class="row no-gutters">
+      <div class="col-lg-6 venue-map">
+        <iframe src="{{ section.google-maps-link }}" frameborder="0" style="border:0" allowfullscreen></iframe>
+      </div>
+
+      <div class="col-lg-6 venue-info">
+        <div class="row justify-content-center">
+          <div class="col-11 col-lg-8">
+            {{ section.content }}
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="container-fluid venue-gallery-container">
+    <div class="row no-gutters">
+
+      {% for picture in section.pictures %}
+      <div class="col-lg-3 col-md-4">
+        <div class="venue-gallery">
+          <a href="/img/{{ picture }}" class="venobox" data-gall="venue-gallery">
+            <img src="/img/{{ picture }}" alt="" class="assets/img-fluid">
+          </a>
+        </div>
+      </div>
+      {% endfor %}
+
+    </div>
+  </div>
+
+</section>

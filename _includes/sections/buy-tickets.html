@@ -1,0 +1,45 @@
+<!--==========================
+  Buy Ticket Section
+============================-->
+<script src='https://js.tito.io/v1' async></script>
+<section id="buy-tickets" class="section-with-bg wow fadeInUp">
+  <div class="container">
+
+    <div class="section-header">
+      <h2>Anmelden</h2>
+      <p>Die Anmeldung und Möglichkeit zur Spende wird in Kürze freigeschaltet.</p>
+    </div>
+
+    <div class="row">
+    {% for ticket in section.tickets %}
+      {% if ticket.active != true %}{% continue %}{% endif %}
+      <div class="col-lg-6">
+        <div class="card mb-5 mb-lg-0">
+          <div class="card-body">
+            <h4 class="card-title text-muted text-uppercase text-center">{{ ticket.name }}</h4>
+            <h6 class="card-price text-center">{{ ticket.price }}<sup>*</sup></h6>
+            <p><sup>*</sup> unverbindliche Spenden-Empfehlung
+            <hr>
+            <ul class="fa-ul">
+              {% for item in ticket.included %}
+              <li><span class="fa-li"><i class="fa fa-check"></i></span>{{ item }}</li>
+              {% endfor %}
+              {% for item in ticket.not-included %}
+              <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>{{ item }}</li>
+              {% endfor %}
+            </ul>
+            <hr>
+            <div class="text-center">
+              <!--<tito-button event="phpuceu/web-engineering-unconference-2020" releases="{{ ticket.tito-release }}">Buy Now</tito-button>-->
+              <!-- <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="pro-access">Buy Now</button> -->
+              <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="standard-access">in Kürze Verfügbar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+
+  </div>
+
+</section>
