@@ -12,4 +12,4 @@ Seit 2018 wird das Programm gemeinsam mit der Deutschen Kinder- und Jugendstiftu
 Grandios. 78 % der Absolventinnen des Programms interessieren sich danach für ein Studium der Informatik, 70 % entwickeln ein größeres Interesse an Führungsrollen sowie Unternehmertum. 
 
 ##### Wie verändert das Programm die MentorInnen an den teilnehmenden Schulen?
-Ebenfalls großartig, denn 1 00% der MentorInnen möchten sich weiter für digitale Bildung von  jungen Menschen engagieren. Und mehr als 80 % der MentorInnen gaben an, dass sie neue Blickwinkel für das Lösen von Problemen entwickelten. Alle werden sich für neue digitale Lernkonzepte in ihren Schulen einsetzen.
+Ebenfalls großartig, denn 100% der MentorInnen möchten sich weiter für digitale Bildung von jungen Menschen engagieren. Und mehr als 80 % der MentorInnen geben an, dass sie neue Blickwinkel für das Lösen von Problemen entwickelten. Alle werden sich für neue digitale Lernkonzepte in ihren Schulen einsetzen.
