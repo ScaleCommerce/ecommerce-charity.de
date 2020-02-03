@@ -4,8 +4,8 @@ navtitle: FAQ
 active: true
 template: sections/faq.html
 faq:
-  - question: Wenn ich spende, bin ich dann automatisch bei dem Abend dabei?
-  answer: |
+  - question: Wenn ich spende, bin ich dann automatisch an dem Abend eingeladen?
+    answer: |
       Jeder ist an dem Abend willkommen, allerdings haben wir eine limitierte Anzahl von Sitzplätzen. Es kann sein, dass wir  im Einzelfall keine Einladung aussprechen können, weil wir keine Plätze mehr frei haben. Die Spende kann aber unabhängig von der Teilnahme an der Veranstaltung platziert werden.  
 
   - question: Wann startet und wann endet der Abend?
