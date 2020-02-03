@@ -27,11 +27,11 @@ faq:
       
   - question: Welche Gäste werden da sein?
     answer: |
-      Es kommen viele kluge Köpfe aus der eCommerce Branche. Alle freuen sich auf einen Austausch. Nutze den Abend, denn selten ist der Kreis an Persönlichkeiten so klein und zugleich offen. Der abend ist limitiert auf 100 exclusive Gäste.
+      Es kommen viele kluge Köpfe aus der eCommerce Branche. Alle freuen sich auf einen Austausch. Nutze den Abend, denn selten ist der Kreis an Persönlichkeiten so klein und zugleich offen. Die Anzahl der Gäste an dem Abend ist limitiert auf 100 exclusive Personen.
 
   - question: Gibt es einen Dresscode?
     answer: |
-       Nein, come as you are. Das Grace ist ein chices Restaurant, keine Frage, aber oberste Prämisse bei der Kleiderwahl ist, dass Du Dich wohl fühlst. Einige werden mit Jeans und Sneakers erscheinen und andere im kleinen Schwarzen. Entscheide selbst. 
+       Ja, wir freuen uns über eine Kleiderwahl für den Abend im smart casual look. 
 
   - question: Essenspräferenzen; an wen kann ich diese senden?
     answer: |
