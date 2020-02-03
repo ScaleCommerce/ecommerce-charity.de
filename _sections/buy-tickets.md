@@ -11,7 +11,7 @@ tickets:
     included:
       - Spende an Technovation Girls Germany 
       - Teilnahme am Charity Dinner
-  - name: Nur Spenden
+  - name: Nur spenden
     price: €100
     active: true
     tito-release: xxx
