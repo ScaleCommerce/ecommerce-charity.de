@@ -8,7 +8,7 @@ hotels:
     link: https://www.hotelzoo.de
     image: hotels/1.jpg
     stars: 5
-    distance: 0m - Hier findet der event statt
+    distance: 0m - Hier findet das Event statt.
   - name: Lindner Hotel
     link: https://www.lindner.de/berlin-hotel-am-kudamm/ankommen.html
     image: hotels/2.jpg
