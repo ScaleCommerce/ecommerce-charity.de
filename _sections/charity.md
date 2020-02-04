@@ -15,4 +15,4 @@ Grandios. 78 % der Absolventinnen des Programms interessieren sich danach für e
 Ebenfalls großartig, denn 100% der MentorInnen möchten sich weiter für digitale Bildung von jungen Menschen engagieren. Und mehr als 80 % der MentorInnen geben an, dass sie neue Blickwinkel für das Lösen von Problemen entwickelten. Alle werden sich für neue digitale Lernkonzepte in ihren Schulen einsetzen.
 
 ##### Wie wird die Spendensumme in Höhe von ca. Euro 40.000,-- eingesetzt?
-Mit der Summe können wir einne weiteren Standort in Deutschland eröffnen. Das Programm wird bereits in Hamburg und München angeboten. Dein Spende trägt dazu bei, dass Mädchen in einer anderen deuschen Stadt gefördert werden. Vielen Dank dafür.I
+Mit der Summe können wir einne weiteren Standort in Deutschland eröffnen. Das Programm wird bereits in Hamburg und München angeboten. Deine Spende trägt dazu bei, dass Mädchen in einer anderen deuschen Stadt gefördert werden können. Vielen Dank dafür.
