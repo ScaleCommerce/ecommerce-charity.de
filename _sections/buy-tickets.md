@@ -27,7 +27,7 @@ tickets:
     not-included:
     - Teilnahme am Charity Dinner
   - name: Partner werden 
-    price: 
+    price: Partnerschaft 
     active: true
     tito-release: xxx
     included:
