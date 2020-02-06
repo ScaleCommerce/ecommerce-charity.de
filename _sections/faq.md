@@ -5,9 +5,13 @@ active: true
 template: sections/faq.html
 faq:
 
+  - question: Welche Spendesumme soll durch den Abend erzielt werden?
+    answer: |
+      Gerne möchten wir einen weiteren Standort des Programms in Deutschland eröffnen. Dafür sind mindestens Euro 40.000,-- an Spendenvolumen nötig. Wenn wir es schaffen mit 100 Personen diese Summe zu sammeln, wäre das bombastisch. Für einen Einzelnen sind dies Euro 400,--. 
+      
   - question: Wenn ich spende, bin ich dann automatisch zu dem Abend eingeladen?
     answer: |
-      Jeder ist an dem Abend willkommen, allerdings haben wir eine limitierte Anzahl von Sitzplätzen. Es kann sein, dass wir  im Einzelfall keine Einladung aussprechen können, weil wir keine Plätze mehr frei haben. Die Spende kann aber unabhängig von der Teilnahme an der Veranstaltung platziert werden.  
+      Die Teilnahme am Abend ist freiwillig. Allerdings ist Anzahl von Sitzplätzen limitiert auf 100 Stück. Es kann sein, dass wir  im Einzelfall keine Einladung aussprechen können, weil keine Plätze mehr frei sein werden. Die Spende kann aber unabhängig von der Teilnahme an der Veranstaltung platziert werden.  
 
   - question: Wann startet und wann endet der Abend?
     answer: |
