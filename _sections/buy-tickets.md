@@ -25,12 +25,6 @@ tickets:
     included:
       - Spende an Technovation Girls Germany 
     not-included:
-    - Teilnahme am Charity Dinner
-  - name: Partner werden 
-    price: Partnerschaft 
-    active: true
-    tito-release: xxx
-    included:
-    - Du möchtest Dich als Partner engagieren? 
-    - Sprich uns bitte an! Wir freuen uns! 
+    
+ 
 ---
