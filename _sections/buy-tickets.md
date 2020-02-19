@@ -18,4 +18,5 @@ tickets:
     included:
       - Spende an Technovation Girls Germany 
     not-included:
+      - Anmelden zum E-Commerce Charity Dinner
 ---
