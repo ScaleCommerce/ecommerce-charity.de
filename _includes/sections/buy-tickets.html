@@ -30,11 +30,8 @@
             </ul>
             <hr>
             <div class="text-center">
-              <tito-button event="scalecommerce/e-commerce-charity-dinner" releases="{{ ticket.tito-release }}">Buy Now</tito-button>-->
-              <!-- <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="pro-access">Buy Now</button> -->
-              <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="standard-access">in Kürze verfügbar</button>
+              <tito-button event=“scalecommerce/e-commerce-charity-dinner” releases=“{{ ticket.release }}“>{{ ticket.name }}</tito-button>            </div>
             </div>
-          </div>
         </div>
       </div>
     {% endfor %}
