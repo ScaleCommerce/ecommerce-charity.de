@@ -40,8 +40,5 @@ faq:
   - question: Essenspräferenzen; an wen kann ich diese senden?
     answer: |
        Beim Anmeldeprozess werden diese abgefragt, solltest Du aus irgendeinem Grunde diese Angabe versäumt haben, bitte einfach eine Mail an: info@scale.sc
-       
-  - question: Warum ist der 8. Mai ein Feiertag in Berlin? 
-    answer: |
-       In diesem Jahr hat Berlin am 8. Mai einen einmaligen weiteren gesetzlichen Feiertag. Der Anlass ist die Kapitulation der Wehrmacht. Diese jährt sich zum 75. Mal. Das Datum markiert das Ende des Zweiten Weltkriegs und wird als Tag der Befreiung vom Nationalsozialismus gefeiert. Den Feiertag soll es nur einmal geben. In den Jahren danach ist er wieder ein normaler Arbeitstag.  
+ 
 ---
