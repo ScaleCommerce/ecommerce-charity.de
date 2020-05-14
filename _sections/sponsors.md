@@ -12,4 +12,8 @@ sponsors:
     logo: sponsors/dkjs.jpg
     link: https://www.dkjs.de
     width: 1
+  - name: NFQ
+    logo: sponsors/dkjs.jpg
+    link: https://www.nfq.asia/
+    width: 1
 ---
