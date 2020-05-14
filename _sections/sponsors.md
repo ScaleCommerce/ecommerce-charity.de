@@ -1,6 +1,6 @@
 ---
 order: 5
-navtitle: Partner
+navtitle: Supporters
 active: false
 template: sections/sponsors.html
 sponsors:
