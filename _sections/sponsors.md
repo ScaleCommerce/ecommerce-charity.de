@@ -1,7 +1,7 @@
 ---
 order: 5
 navtitle: Supporters
-active: false
+active: true
 template: sections/sponsors.html
 sponsors:
   - name: ScaleCommerce
