@@ -9,7 +9,7 @@ sponsors:
     link: https://scale.sc
     width: 1
   - name: Deutsche Kinder- und Jugendstiftung
-    logo: sponsors/dkjs.jpg
+    logo: DKJS_sponsor_RGB_web.jpg
     link: https://www.dkjs.de
     width: 1
   - name: NFQ
