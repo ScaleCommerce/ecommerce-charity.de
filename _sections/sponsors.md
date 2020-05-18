@@ -13,7 +13,7 @@ sponsors:
     link: https://www.dkjs.de
     width: 1
   - name: NFQ
-    logo: nfq_klein.png
+    logo: sponsors/nfq_klein.png
     link: https://www.nfq.asia/
     width: 1
 ---
