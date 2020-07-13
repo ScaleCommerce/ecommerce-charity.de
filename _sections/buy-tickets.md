@@ -1,7 +1,7 @@
 ---
 order: 4
 navtitle: Anmelden & Spenden
-active: true
+active: false
 template: sections/buy-tickets.html
 tickets:
   - name: Spenden und anmelden
