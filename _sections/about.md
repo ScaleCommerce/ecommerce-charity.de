@@ -11,11 +11,9 @@ where: |
   10719 Berlin
 
 when: |
-  Freitag, 11. September 2020  
-  Ab 19:30 Uhr
+  Leider abgesagt! 
+ 
 ---
-Verbinde einen tollen Abend in unserem inspirierenden eCommerce Netzwerk mit Deinem Engagement für die Zukunft unserer Kinder. Mit **100** exklusiven Gästen wollen wir eine Spendensumme in Höhe von **Euro 40.000,--** erreichen.
+Leider mussten wir unseren Spenden-Abend absagen. Die aktuellen Auflagen aufgrund von Corona lassen ein Format wie Networking nicht zu. 
+Die Spenden im Rahmen des Charity Dinner sollten ein tolles Bildungsprojekt für Mädchen finanzieren. Aktuell denken wir über einen digitalen Spenden-Marathon zu Gunsten des Projekts technovation nach! Wenn du auf dem Laufden bleiben möchtest, dann abonnieren http://eepurl.com/g-aovf
 
-Das Charity Dinner finanziert ein tolles Bildungsprojekt für Mädchen und bietet Dir einen unvergesslichen Abend an dem alles passen wird - tolle Gäste, exzellente Location und eine coole Party!
-
-Bei dem Team des Restaurants Grace sind wir in den besten kulinarischen Händen der Hauptstadt.
