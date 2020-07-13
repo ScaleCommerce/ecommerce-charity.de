@@ -1,6 +1,6 @@
 ---
 order: 4
-navtitle: Anmelden
+navtitle: Anmelden & Spenden
 active: true
 template: sections/buy-tickets.html
 tickets:
