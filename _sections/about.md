@@ -15,5 +15,5 @@ when: |
  
 ---
 Leider mussten wir unseren Spenden-Abend absagen. Die aktuellen Auflagen aufgrund von Corona lassen ein Format wie Networking nicht zu. 
-Die Spenden im Rahmen des Charity Dinner sollten ein tolles Bildungsprojekt für Mädchen finanzieren. Aktuell denken wir über einen digitalen Spenden-Marathon zu Gunsten des Projekts technovation nach! Wenn du auf dem Laufden bleiben möchtest, dann abonnieren http://eepurl.com/g-aovf
+Die Spenden im Rahmen des Charity Dinner sollten ein tolles Bildungsprojekt für Mädchen finanzieren. Aktuell denken wir über einen digitalen Spenden-Marathon zu Gunsten des Projekts technovation nach! 
 
